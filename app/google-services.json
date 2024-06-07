@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "910736017102",
+    "firebase_url": "https://family-s-chores-default-rtdb.firebaseio.com",
+    "project_id": "family-s-chores",
+    "storage_bucket": "family-s-chores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910736017102:android:2b3fa9947d50558cf8b29f",
+        "android_client_info": {
+          "package_name": "com.bu1o4ka.familyschores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2kPImNwSGW9DEqWDRsqWYGKHbP2KF7xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
